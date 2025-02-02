@@ -1,0 +1,22 @@
+baseURL = 'https://www.brookwoodgroup.uk/'
+languageCode = 'en-us'
+title = 'Brookwood Group Ltd'
+
+theme = "coming-soon"
+
+[params]
+    title = "Brookwood Group Ltd" 
+    description = "Brookwood Group Ltd, Registered number: 15825473"
+    favicon = ""
+    message = "COMING SOON!" 
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "info@brookwoodgroup.uk"},          
+    #{name = "facebook", url = "https://facebook.com/"},    
+    #{name = "github", url = "https://github.com/"},    
+    #{name = "instagram", url = "https://instagram.com/"},    
+    #{name = "tiktok", url = "https://tiktok.com/"},    
+    #{name = "linkedin", url = "https://linkedin.com/"},    
+] 
+
